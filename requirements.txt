@@ -1,0 +1,12 @@
+groq
+langchain
+langchain-community
+langchain-core
+langchain-groq
+faiss-cpu
+tiktoken
+pypdf
+streamlit
+python-dotenv
+sentence-transformers
+scikit-learn
